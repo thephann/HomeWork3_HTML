@@ -1,0 +1,38 @@
+.topnavbar{
+	background-color: #333;
+	height: 50px;
+	top: 0;
+	width: 100%;
+	position: fixed;
+	left: 0;
+}
+.topbar-item{
+	float: right;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+.leftnavbar {
+	top:50px;
+	width: 300px;
+	position: fixed;
+	height: 100%;
+	left:0;
+}
+.leftbar-item {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	width: 300px;
+	background-color: #f1f1f1;
+	height: 100%;
+	position:fixed;
+	overflow: auto;
+}
+.content {
+	margin-left: 300px;
+	padding: 20px;
+	margin-top: 50px;
+}
