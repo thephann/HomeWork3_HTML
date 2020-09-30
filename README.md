@@ -1,1 +1,1 @@
-# HomeWork3_HTML
+# Sử dụng HTML tạo static website theo yêu cầu.
